@@ -1,5 +1,5 @@
 # OGXbox-OperatingSYS
-A OG Xbox Reverse Engineering Operating System with a complete set of tools to help with decompilations. 
+A OG Xbox Reverse Engineering Operating System with a complete set of tools to help with decompilations..
 ![Image of the OPSys](https://github.com/ParagonXIIV/OGXbox-OperatingSYS/blob/main/xboxOperatingSystem.png?raw=true)
 
 
