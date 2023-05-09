@@ -1,5 +1,5 @@
 # OGXbox-OperatingSYS
-A OG Xbox Reverse Engineering Operating System with a complete set of tools to help with decompilations..
+A OG Xbox Reverse Engineering Operating System with a complete set of tools to help with decompilations...
 
 # Update -> 11:09 PM Monday, May 8, 2023 (EDT)
 
